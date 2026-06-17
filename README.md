@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name is **Sándor**. I am an **Economist** working as a **Data scientist**.
+My name is **Sándor**. I am a **data scientist** with an **economics** background.
 
 In my daily role, I own end-to-end data science projects, focusing primarily on **developing predictive ML models** and **managing their entire lifecycle**.
 
